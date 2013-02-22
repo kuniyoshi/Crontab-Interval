@@ -5,7 +5,7 @@ use warnings;
 use Exporter "import";
 use List::Util qw( sum );
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 our @EXPORT_OK = qw( trans );
 
 my %COUNT = (

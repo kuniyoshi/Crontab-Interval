@@ -1,4 +1,6 @@
 Revision history for Perl extension Crontab::Interval
 
+0.02    Fri Feb 22 21:21:34 JST 2013
+        - use ReadmeFromPod
 0.01    Fri Feb 22 11:29:04 2013
         - original version
