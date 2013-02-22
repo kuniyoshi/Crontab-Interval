@@ -1,7 +1,7 @@
 use inc::Module::Install;
 
-name 'Cron-Interval';
-all_from 'lib/Cron/Interval.pm';
+name 'Crontab-Interval';
+all_from 'lib/Crontab/Interval.pm';
 # requires '';
 tests 't/*.t';
 author_tests 'xt';

@@ -1,3 +1,3 @@
 use strict;
 use Test::More tests => 1;
-BEGIN { use_ok 'Cron::Interval' }
+BEGIN { use_ok 'Crontab::Interval' }

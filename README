@@ -1,11 +1,11 @@
-This is Perl module Cron::Interval.
+This is Perl module Crontab::Interval.
 
 INSTALLATION
 
-Cron::Interval installation is straightforward. If your CPAN shell is set up,
+Crontab::Interval installation is straightforward. If your CPAN shell is set up,
 you should just be able to do
 
-    % cpan Cron::Interval
+    % cpan Crontab::Interval
 
 Download it, unpack it, then build it as per the usual:
 
@@ -18,9 +18,9 @@ Then install it:
 
 DOCUMENTATION
 
-Cron::Interval documentation is available as in POD. So you can do:
+Crontab::Interval documentation is available as in POD. So you can do:
 
-    % perldoc Cron::Interval
+    % perldoc Crontab::Interval
 
 to read the documentation online with your favorite pager.
 
